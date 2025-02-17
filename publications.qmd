@@ -1,0 +1,29 @@
+---
+title: "Publications"
+---
+
+- Tallon, J. M., Gomes, P., Bacelar-Nicolau, L., & Bacelar, S. (2021). A three-way multivariate data analysis: Comparison of EU countries’ COVID-19 incidence trajectories from May 2020 to February 2021. Biometrics & Biostatistics International Journal, 10(3), 17. https://doi.org/10.15406/bbij.2021.10.00336
+- Bacelar, S., & Antunes, L. (2019). Generational political dynamics of retirement pensions systems: An agent based model. http://arxiv.org/abs/1909.08706
+- Bacelar, Sérgio (2015, December 8). The Well-being Index: The weights of different components. Seminar on the Role of National Statistical Offices in the production of Leading,. Composite and Sentiment Indicators, UNECE, Geneva. https://unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.42/2015/Seminar/Session_II__Portugal_-_The_Well-being_Index__the_weights_of_different_components.pdf
+- Gomes, P., & Bacelar, S. (2015). Measuring well-being in Portugal: Weights and resilience. Proceedings of the 60th ISI World Statistics Congress, 2004, 26–31. http://www.isi2015.org/components/com_users/views/registration/tmpl/media/uploadedFiles/paper/2049/5331/OR-F03-P2-S.pdf
+- Guedes, J. M., Bacelar, S., Fonseca, A. M., & others. (2014). Uma tipologia de modos de vida na aposentadoria em Portugal. Kair{ó}s. Revista Da Faculdade de Ci{ê}ncias Humanas e Sa{ú}de. ISSN 2176-901X, 17(4), 9–29.
+- Bacelar, S. (2009). Metadata Common Vocabulary: A journey from a glossary to an ontology of statistical metadata and back. SDMX Global Conference, 1–10.
+- Bacelar, S. (2008). Evolu{ç}{ã}o da popula{ç}{ã}o e da estrutura familiar na Regi{ã}o Norte. In C. M. Gonçalves (Ed.), A Regi{ã}o Norte de Portugal: Mudan{ç}as e continuidades na contemporaneidade. Universidade do Porto. Faculdade de Letras. Instituto de Sociologia. https://ler.letras.up.pt/site/default.aspx?qry=id03id1253&sum=sim
+- Bacelar, S. (n.d.). Inventário Municipal da Região Norte: Breve apresentação de um instrumento de análise do quadro de vida local. Estatísticas & Estudos Regionais - Região Norte, 4, 14–24.
+- Bacelar, Sérgio (coordenação) (2006) *Setenta anos: O Instituto Nacional de Estatística ao Serviço da Sociedade Portuguesa*. Lisboa: INE. ISBN 972-673-889-X.  
+- Oliveira, Emília; Gomes, José; Gomes, Paulo; Campos, Pedro; Bacelar, Sérgio (2000), ‘ALEA: um contributo para a promoção da literacia estatística (análise de dados e ensino da estatística nas escolas secundárias) ‘, *Revista de Estatística*, 20, 1º QUAD 2000.  
+- Bacelar, Sérgio; Campos, Pedro; Martins, R.; Gomes, J.; Oliveira, E. (1999), 'As Estatísticas e o Ensino da Estatística nas Escolas Secundárias - ALEA – Acção Local Estatística Aplicada: Um espaço de interacção na Internet em favor da literacia estatística', comunicação apresentada em - *Challenges 99 - , Actas da I Conferência Internacional de Tecnologias de Informação e Comunicação na Educação*, Centro de Competência Nónio Século XXI, Universidade do Minho, Maio 1999.  
+
+- Bacelar, Sérgio (1996), 'Para uma Sociologia da produção estatística: virtualidades duma leitura sintomática da informação estatística', *Revista de Estatística*, 1;  
+
+- Bacelar, Sérgio (1994), 'Inventário Municipal da Região do Norte: breve apresentação de um instrumento de análise do quadro de vida local', *Estatísticas & Estudos Regionais* - Região Norte, Jan-Abr 1994, Nº 4  
+
+- Bacelar, Sérgio (1994), 'Inventário Municipal da Região do Norte: alguns indicadores para a análise do quadro de vida local', comunicação apresentada nas *I Jornadas de Classificação e Análise de Dados*, Lisboa;  
+
+- Bacelar, Sérgio; Gomes, Paulo; Saleiro, Emília (1994), 'Tipologia socioeconómica dos concelhos da Região Norte', comunicação apresentada no *II Congresso Annual da Sociedade Portuguesa de Estatística*, Luso, Junho de 1994;  
+
+- Bacelar, Sérgio e Maia, José (1994), 'Estudo exploratório e confirmatório da estrutura somática dos jovens andebolistas dos 13 aos 16 anos de idade', I Congresso Anual da Sociedade Portuguesa de Estatística, Vimeiro, Junho de 1993 in Pestana, Dinis et al. (orgs.), *A Estatística e o Futuro da Estatística*, Lisboa, Salamandra;  
+
+- Bacelar, Sérgio; Gomes, Paulo; Saleiro, Emília (1993), 'Tipologia socioeconómica da população de Macau e no Delta do Rio das Pérolas – uma análise estatística multivariada dos dados dos Censos 91', *Seminário sobre a População em Macau e no Delta do Rio das Pérolas*, Macau, Outubro;  
+
+- Bacelar, Sérgio (1993), 'Estagnação, Litoralização e Envelhecimento na Região (1981-91): uma dinâmica com contrastes', *Estatísticas & Estudos Regionais*, 1, Porto, Instituto Nacional de Estatística/Direcção Regional do Norte;  

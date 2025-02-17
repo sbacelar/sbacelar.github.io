@@ -1,0 +1,19 @@
+---
+title: "Sérgio Bacelar"
+image: portrait.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+---
+
+
+# Welcome
+
+Sérgio is currently a PhD candidate of Complexity Sciences ([FCUL-University of Lisbon](https://ciencias.ulisboa.pt/en)/[ISCTE-University Institute of Lisbon](https://www.iscte-iul.pt/)).
+
+
+# Skills
+
+- R Programming
+- Statistics
+- [Photography](https://www.flickr.com/photos/sbac54/)
