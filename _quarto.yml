@@ -6,7 +6,7 @@ execute:
 
 website:
   title: "Sérgio Bacelar"
-  favicon: images/favicon.png
+  favicon: images/favicon.svg
   navbar:
     background: light
     search: true

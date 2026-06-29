@@ -14,6 +14,16 @@ Sérgio is currently a PhD candidate of Complexity Sciences ([FCUL-University of
 
 # Skills
 
-- R Programming
-- Statistics
-- [Photography](https://www.flickr.com/photos/sbac54/)
+::: {.skills-container}
+::: {.skill-card}
+**R Programming**
+:::
+
+::: {.skill-card}
+**Statistics**
+:::
+
+::: {.skill-card}
+**[Photography](https://www.flickr.com/photos/sbac54/)**
+:::
+:::

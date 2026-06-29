@@ -21,13 +21,23 @@ body {
     padding: 2rem 0;
 }
 
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding: 1.5rem 0;
+}
+
 .skill-card {
+    flex: 1 1 160px;
     padding: 1.5rem;
     border-radius: 8px;
     background: #f8f9fa;
-    transition: transform 0.2s;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .skill-card:hover {
     transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(44, 62, 80, 0.12);
 }
