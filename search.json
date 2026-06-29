@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Sérgio Bacelar",
     "section": "",
-    "text": "Welcome\nSérgio is currently a PhD candidate of Complexity Sciences (FCUL-University of Lisbon/ISCTE-University Institute of Lisbon).\n\n\nSkills\n\nR Programming\nStatistics\nPhotography"
+    "text": "Welcome\nSérgio is currently a PhD candidate of Complexity Sciences (FCUL-University of Lisbon/ISCTE-University Institute of Lisbon).\n\n\nSkills\n\n\nR Programming\n\n\nStatistics\n\n\nPhotography"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "For more than 20 years I taught and researched in the social sciences, mainly at the Faculty of Economics of the University of Porto, as well as at other university schools.\n\nAreas Taught\n\nSocial sciences research methods\nStatistics\nOrganizational behavior\n\n\n\nAcademic Qualification\n\nProvas de Aptidão Pedagógica e Capacidade Científica (2008) Faculdade de Economia do Porto"
   },
   {
     "objectID": "talks.html",
@@ -49,11 +56,18 @@
     "text": "Workshops:\nComplexity Sciences Winter School, “Social Structures in Communication Networks”, 5-9 Jan. 2009, ISCTE, Lisbon University Institute.\nWorkshop “Definição e outros conceitos” [Definition and other concepts]. Formação dada ao Instituto Nacional de Estatística pelo Centro de Linguística da Universidade Nova de Lisboa. COSTA, Rute, (coordination). Novembro 2006\nZUMA Workshop Simulation for the Social Sciences, Universidade de Koblenz-Landau, Germany, 8-12 September, 2003."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am always happy to discuss research on computational social sciences, well-being, and retirement pension systems. Feel free to reach out through any of the channels below.\n\nEmail: sergio.bacelar@gmail.com\nGitHub: github.com/sbacelar\nPhotography: Flickr"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Biography\nMy main research interests are Computational Social Sciences and Wellbeing/Quality of Life research. The main areas of applications are retirement pension systems, and well-being and official statistics. He has published papers and presented communications on well-being (International Statistical Institute, UNECE, Kairós Gerontologia), computational social sciences (European Conference on Complex Systems), statistical metadata (UNECE/Eurostat/OECD) and regional statistical studies.\nI worked at the Department of Demographic and Social Statistics of Statistics Portugal where he was responsible for the production of the Well-being index of Portugal. He worked in Statistics Portugal since 1990, mainly on statistical metadata, regional statistics studies and official statistics dissemination.\nI have been a coordinator of the project ESSnet on SDMX (Statistical Data and Metadata Exchange): Metadata Common Vocabulary Ontology. Eurostat. Member of the SDMX “Metadata Task Force” at Eurostat and member of the Common Metadata Framework – (Metadata Concepts, Standards, Models and Registries) Task Force at United Nations. He also participated in the project “Rainbow - An Object Network for Statisticians and Administrators” (European Commission Telematics Applications Programme)\nI teached and researched for more than 20 years in areas related to social sciences methods, statistics and organizational behavior at Faculty of Economics of University of Porto, and other university schools.\n\n\nEducation\n\nProvas de Aptidão Pedagógica e Capacidade Científica (2008)\nFaculdade de Economia do Porto\nDegree in Sociology (2000)\nISCTE-IUL University Institute of Lisbon\nDegree in Economics (1977)\nFaculdade de Economia do Porto U. Porto\n\n\n\nResearch Interests\n\nComputational Social Sciences\nWell-being and Quality of Life\nPensions and Retirement"
+    "text": "Biography\nMy main research interests are Computational Social Sciences and Wellbeing/Quality of Life research. The main areas of application are retirement pension systems, well-being, and official statistics. I have published papers and presented communications on well-being (International Statistical Institute, UNECE, Kairós Gerontologia), computational social sciences (European Conference on Complex Systems), statistical metadata (UNECE/Eurostat/OECD) and regional statistical studies.\nI worked at the Department of Demographic and Social Statistics of Statistics Portugal, where I was responsible for the production of the Well-being index of Portugal. I worked at Statistics Portugal from 1990, mainly on statistical metadata, regional statistics studies and official statistics dissemination.\nI was a coordinator of the project ESSnet on SDMX (Statistical Data and Metadata Exchange): Metadata Common Vocabulary Ontology, at Eurostat. I was a member of the SDMX “Metadata Task Force” at Eurostat and a member of the Common Metadata Framework – (Metadata Concepts, Standards, Models and Registries) Task Force at the United Nations. I also participated in the project “Rainbow – An Object Network for Statisticians and Administrators” (European Commission Telematics Applications Programme).\nI taught and researched for more than 20 years in areas related to social sciences methods, statistics and organizational behavior at the Faculty of Economics of the University of Porto, and other university schools.\n\n\nEducation\n\nProvas de Aptidão Pedagógica e Capacidade Científica (2008)\nFaculdade de Economia do Porto\nDegree in Sociology (2000)\nISCTE-IUL University Institute of Lisbon\nDegree in Economics (1977)\nFaculdade de Economia do Porto U. Porto\n\n\n\nResearch Interests\n\nComputational Social Sciences\nWell-being and Quality of Life\nPensions and Retirement"
   },
   {
     "objectID": "publications.html",
