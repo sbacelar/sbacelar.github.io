@@ -16,7 +16,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://orcid.org/0000-0002-9587-7280
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/sergiobacelar/
+      href: https://www.linkedin.com/in/s%C3%A9rgio-bacelar-044809/
 ---
 
 # Welcome
