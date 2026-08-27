@@ -11,8 +11,7 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: github
       text: GitHub
       href: https://github.com/sbacelar
-    - icon: person-badge
-      text: ORCID
+    - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9587-7280
     - icon: linkedin
       text: LinkedIn
