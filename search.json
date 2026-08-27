@@ -1,17 +1,59 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Tallon, J. M., Gomes, P., Bacelar-Nicolau, L., & Bacelar, S. (2021). A three-way multivariate data analysis: Comparison of EU countries’ COVID-19 incidence trajectories from May 2020 to February 2021. Biometrics & Biostatistics International Journal, 10(3), 17. https://doi.org/10.15406/bbij.2021.10.00336\nBacelar, S., & Antunes, L. (2019). Generational political dynamics of retirement pensions systems: An agent based model. http://arxiv.org/abs/1909.08706\nBacelar, Sérgio (2015, December 8). The Well-being Index: The weights of different components. Seminar on the Role of National Statistical Offices in the production of Leading,. Composite and Sentiment Indicators, UNECE, Geneva. https://unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.42/2015/Seminar/Session_II_Portugal-_The_Well-being_Index__the_weights_of_different_components.pdf\nGomes, P., & Bacelar, S. (2015). Measuring well-being in Portugal: Weights and resilience. Proceedings of the 60th ISI World Statistics Congress, 2004, 26–31. http://www.isi2015.org/components/com_users/views/registration/tmpl/media/uploadedFiles/paper/2049/5331/OR-F03-P2-S.pdf\nGuedes, J. M., Bacelar, S., Fonseca, A. M., & others. (2014). Uma tipologia de modos de vida na aposentadoria em Portugal. Kair{ó}s. Revista Da Faculdade de Ci{ê}ncias Humanas e Sa{ú}de. ISSN 2176-901X, 17(4), 9–29.\nBacelar, S. (2009). Metadata Common Vocabulary: A journey from a glossary to an ontology of statistical metadata and back. SDMX Global Conference, 1–10.\nBacelar, S. (2008). Evolu{ç}{ã}o da popula{ç}{ã}o e da estrutura familiar na Regi{ã}o Norte. In C. M. Gonçalves (Ed.), A Regi{ã}o Norte de Portugal: Mudan{ç}as e continuidades na contemporaneidade. Universidade do Porto. Faculdade de Letras. Instituto de Sociologia. https://ler.letras.up.pt/site/default.aspx?qry=id03id1253&sum=sim\nBacelar, S. (n.d.). Inventário Municipal da Região Norte: Breve apresentação de um instrumento de análise do quadro de vida local. Estatísticas & Estudos Regionais - Região Norte, 4, 14–24.\nBacelar, Sérgio (coordenação) (2006) Setenta anos: O Instituto Nacional de Estatística ao Serviço da Sociedade Portuguesa. Lisboa: INE. ISBN 972-673-889-X.\n\nOliveira, Emília; Gomes, José; Gomes, Paulo; Campos, Pedro; Bacelar, Sérgio (2000), ‘ALEA: um contributo para a promoção da literacia estatística (análise de dados e ensino da estatística nas escolas secundárias) ‘, Revista de Estatística, 20, 1º QUAD 2000.\n\nBacelar, Sérgio; Campos, Pedro; Martins, R.; Gomes, J.; Oliveira, E. (1999), ‘As Estatísticas e o Ensino da Estatística nas Escolas Secundárias - ALEA – Acção Local Estatística Aplicada: Um espaço de interacção na Internet em favor da literacia estatística’, comunicação apresentada em - Challenges 99 - , Actas da I Conferência Internacional de Tecnologias de Informação e Comunicação na Educação, Centro de Competência Nónio Século XXI, Universidade do Minho, Maio 1999.\nBacelar, Sérgio (1996), ‘Para uma Sociologia da produção estatística: virtualidades duma leitura sintomática da informação estatística’, Revista de Estatística, 1;\nBacelar, Sérgio (1994), ‘Inventário Municipal da Região do Norte: breve apresentação de um instrumento de análise do quadro de vida local’, Estatísticas & Estudos Regionais - Região Norte, Jan-Abr 1994, Nº 4\nBacelar, Sérgio (1994), ‘Inventário Municipal da Região do Norte: alguns indicadores para a análise do quadro de vida local’, comunicação apresentada nas I Jornadas de Classificação e Análise de Dados, Lisboa;\nBacelar, Sérgio; Gomes, Paulo; Saleiro, Emília (1994), ‘Tipologia socioeconómica dos concelhos da Região Norte’, comunicação apresentada no II Congresso Annual da Sociedade Portuguesa de Estatística, Luso, Junho de 1994;\nBacelar, Sérgio e Maia, José (1994), ‘Estudo exploratório e confirmatório da estrutura somática dos jovens andebolistas dos 13 aos 16 anos de idade’, I Congresso Anual da Sociedade Portuguesa de Estatística, Vimeiro, Junho de 1993 in Pestana, Dinis et al. (orgs.), A Estatística e o Futuro da Estatística, Lisboa, Salamandra;\nBacelar, Sérgio; Gomes, Paulo; Saleiro, Emília (1993), ‘Tipologia socioeconómica da população de Macau e no Delta do Rio das Pérolas – uma análise estatística multivariada dos dados dos Censos 91’, Seminário sobre a População em Macau e no Delta do Rio das Pérolas, Macau, Outubro;\nBacelar, Sérgio (1993), ‘Estagnação, Litoralização e Envelhecimento na Região (1981-91): uma dinâmica com contrastes’, Estatísticas & Estudos Regionais, 1, Porto, Instituto Nacional de Estatística/Direcção Regional do Norte;"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sérgio Bacelar",
     "section": "",
-    "text": "Welcome\nSérgio is currently a PhD candidate of Complexity Sciences (FCUL-University of Lisbon/ISCTE-University Institute of Lisbon).\n\n\nSkills\n\n\nR Programming\n\n\nStatistics\n\n\nPhotography"
+    "text": "Welcome\nI am an independent researcher and retired statistician, based in Porto. I work on retirement and pension systems as complex adaptive systems, using agent-based modelling and social simulation.\nMy doctoral research, begun in the International Doctoral Programme in Complexity Sciences (Iscte-IUL / FCUL), models retirement timing as an emergent property of interacting workers, pension rules and demographic change. The programme was discontinued in 2025; I am completing the dissertation, Dynamics of Retirement Pension Systems: A Generational Approach, independently.\nBefore that I spent 34 years at Statistics Portugal (INE), most recently responsible for the Well-being Index of Portugal.\n\n\nSkills\n\n\nAgent-based modelling\n\n\nR · Julia · NetLogo\n\n\nOfficial statistics\n\n\nPhotography"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "For more than 20 years I taught and researched in the social sciences, mainly at the Faculty of Economics of the University of Porto, as well as at other university schools.\n\nAreas Taught\n\nSocial sciences research methods\nStatistics\nOrganizational behavior\n\n\n\nAcademic Qualification\n\nProvas de Aptidão Pedagógica e Capacidade Científica (2008) Faculdade de Economia do Porto"
+    "text": "2025 – present · Porto\n\nCompleting the doctoral dissertation Dynamics of Retirement Pension Systems: A Generational Approach (supervisor during doctoral studies: Prof. Luís Antunes, FCUL), begun in the International Doctoral Programme in Complexity Sciences (Iscte-IUL / FCUL); the programme was discontinued in 2025.\nAgent-based model of retirement timing combining Goal-Framing Theory worker types with option-value pension incentives; NetLogo driven from R, mean-field companion model, Julia/Agents.jl port in progress.\nManuscripts in preparation for journals in social simulation and retirement research.\nPreprint: Bacelar & Antunes (2019), Generational political dynamics of retirement pension systems: an agent-based model, arXiv:1909.08706."
+  },
+  {
+    "objectID": "experience.html#research",
+    "href": "experience.html#research",
+    "title": "Experience",
+    "section": "",
+    "text": "2025 – present · Porto\n\nCompleting the doctoral dissertation Dynamics of Retirement Pension Systems: A Generational Approach (supervisor during doctoral studies: Prof. Luís Antunes, FCUL), begun in the International Doctoral Programme in Complexity Sciences (Iscte-IUL / FCUL); the programme was discontinued in 2025.\nAgent-based model of retirement timing combining Goal-Framing Theory worker types with option-value pension incentives; NetLogo driven from R, mean-field companion model, Julia/Agents.jl port in progress.\nManuscripts in preparation for journals in social simulation and retirement research.\nPreprint: Bacelar & Antunes (2019), Generational political dynamics of retirement pension systems: an agent-based model, arXiv:1909.08706."
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Experience",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nStatistics Portugal (INE)\n1990 – 2024\nStatistics Administrator, Department of Demographic and Social Statistics (2014–2024)\n\nResponsible for the production of the Well-being Index of Portugal.\nLed the revision and development of the National Gender Database (labour market, education, work–life balance, decision-making, health).\nMember, UNECE Task Force on Measurement of Well-being (2023–2024).\n\nStatistics Administrator, Metadata Unit / Department of Methodology and Information Systems (2003–2013)\n\nCoordinator, ESSnet on SDMX WP2: Metadata Common Vocabulary Ontology (Eurostat).\nDesign of the metadata conceptual and documentation subsystems; metadata usability testing.\nMember, SDMX Metadata Task Force (Eurostat); member, Common Metadata Framework Part B Task Force (UNECE).\n\nConsultant to the Administration Board (2001–2003)\n\nStatistical dissemination; cooperation projects in Cape Verde (Official Statistics Database, World Bank funded, 2002) and Mauritius (COMESA seminar on statistics dissemination, 2003).\n\nHead of Unit, North Directorate (1990–2001)\n\nStudies and dissemination; social and demographic statistics; IT and statistical projects.\nParticipant, European project AD1013 Rainbow — An Object Network for Statisticians and Administrators (EC Telematics Applications Programme).\nRegional coordinator (North), 1991 Population and Housing Census."
+  },
+  {
+    "objectID": "experience.html#teaching",
+    "href": "experience.html#teaching",
+    "title": "Experience",
+    "section": "Teaching",
+    "text": "Teaching\n\nAssistant Lecturer, Faculdade de Economia, Universidade do Porto (1985–2002): Introduction to the Social Sciences; Organizational Behaviour.\nAssistant Lecturer, Instituto Superior de Serviço Social do Porto (1978–2005): Social Research Methods; Statistics; Communication Theories."
+  },
+  {
+    "objectID": "experience.html#research-skills",
+    "href": "experience.html#research-skills",
+    "title": "Experience",
+    "section": "Research skills",
+    "text": "Research skills\n\nModelling — agent-based modelling (NetLogo, Julia/Agents.jl); ODD+D documentation; sensitivity analysis; mean-field approximation.\nStatistics and data — R, Julia, SPSS; multivariate data analysis, classification and composite indicators; survival and mortality modelling; econometric identification (DiD, IV, RDD).\nReproducibility — Quarto, LaTeX, Git, Zotero.\nLanguages — Portuguese (native); English (Cambridge Certificate of Proficiency in English)."
+  },
+  {
+    "objectID": "experience.html#workshops",
+    "href": "experience.html#workshops",
+    "title": "Experience",
+    "section": "Workshops",
+    "text": "Workshops\n\nComplexity Sciences Winter School, “Social Structures in Communication Networks”, 5–9 January 2009, Iscte-IUL, Lisbon.\nWorkshop “Definição e outros conceitos” [Definition and other concepts], Centro de Linguística da Universidade Nova de Lisboa for Statistics Portugal (coord. Rute Costa), November 2006.\nZUMA Workshop Simulation for the Social Sciences, Universität Koblenz-Landau, Germany, 8–12 September 2003."
   },
   {
     "objectID": "talks.html",
@@ -28,32 +70,11 @@
     "text": "Conferences organization\nBacelar, Sérgio et al. (2012) Co-organizer of ‘Complexity in the Real-World - from policy intelligence to intelligent policy’. Satellite meeting of the European Conference on Complex Systems (ECCS ‘12’). Brussels, September 5-6, 2012."
   },
   {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Senior Statistician\n1990 - 2024\n\nResponsible for the Well-being index production\nWorked on statistical metadata\nRegional statistics studies\nOfficial statistics dissemination\n\n\n\n\nTeacher Assistant\nFaculty of Economics, University of Porto\n\nTeaching and researching for more than 20 years\nAreas: social sciences research methods, statistics, organizational behavior"
-  },
-  {
-    "objectID": "experience.html#professional-experience",
-    "href": "experience.html#professional-experience",
-    "title": "Experience",
-    "section": "",
-    "text": "Senior Statistician\n1990 - 2024\n\nResponsible for the Well-being index production\nWorked on statistical metadata\nRegional statistics studies\nOfficial statistics dissemination\n\n\n\n\nTeacher Assistant\nFaculty of Economics, University of Porto\n\nTeaching and researching for more than 20 years\nAreas: social sciences research methods, statistics, organizational behavior"
-  },
-  {
-    "objectID": "experience.html#technical-skills-and-competences",
-    "href": "experience.html#technical-skills-and-competences",
-    "title": "Experience",
-    "section": "Technical skills and competences",
-    "text": "Technical skills and competences\nCambridge Certificate of Proficiency in English;"
-  },
-  {
-    "objectID": "experience.html#workshops",
-    "href": "experience.html#workshops",
-    "title": "Experience",
-    "section": "Workshops:",
-    "text": "Workshops:\nComplexity Sciences Winter School, “Social Structures in Communication Networks”, 5-9 Jan. 2009, ISCTE, Lisbon University Institute.\nWorkshop “Definição e outros conceitos” [Definition and other concepts]. Formação dada ao Instituto Nacional de Estatística pelo Centro de Linguística da Universidade Nova de Lisboa. COSTA, Rute, (coordination). Novembro 2006\nZUMA Workshop Simulation for the Social Sciences, Universidade de Koblenz-Landau, Germany, 8-12 September, 2003."
+    "text": "Biography\nI am an independent researcher and retired statistician. My research sits at the intersection of complexity science, social simulation, and retirement and pension systems, with a continuing interest in well-being measurement and official statistics.\nMy current work treats retirement timing as an emergent property of a complex adaptive system. The core is an agent-based model in which workers with hedonic, gain and normative goal frames (Goal-Framing Theory) respond to pension incentives through an option-value mechanism. The model is implemented in NetLogo, driven from R, with a mean-field companion system and a partial translation to Julia/Agents.jl. This work began in the International Doctoral Programme in Complexity Sciences (Iscte-IUL / FCUL). The programme was discontinued in 2025; I am completing the dissertation, Dynamics of Retirement Pension Systems: A Generational Approach, independently, preparing papers from it for journals in social simulation and retirement research, and exploring routes for submitting and defending it.\nI worked at Statistics Portugal (INE) from 1990 to 2024. In the Department of Demographic and Social Statistics I was responsible for the production of the Well-being Index of Portugal and led the revision of the National Gender Database, and I was a member of the UNECE Task Force on Measurement of Well-being (2023–2024). Earlier I coordinated the Eurostat project ESSnet on SDMX: Metadata Common Vocabulary Ontology, sat on the SDMX Metadata Task Force (Eurostat) and the Common Metadata Framework Task Force (UNECE), took part in the European project Rainbow — An Object Network for Statisticians and Administrators, and headed the studies and dissemination unit of INE’s North Directorate.\nI taught social research methods, statistics and organisational behaviour for more than twenty years at the Faculty of Economics of the University of Porto and at the Instituto Superior de Serviço Social do Porto.\n\n\nEducation\n\nDoctoral studies in Complexity Sciences (2009–2025) International Doctoral Programme, Iscte-IUL / FCUL. Programme discontinued in 2025; research continued independently.\nProvas de Aptidão Pedagógica e Capacidade Científica (2000) Faculdade de Economia, Universidade do Porto\nLicenciatura in Sociology (1984) ISCTE, Lisbon\nLicenciatura in Economics (1977) Faculdade de Economia, Universidade do Porto\n\n\n\nResearch Interests\n\nRetirement timing and pension systems as complex adaptive systems\nAgent-based modelling and microsimulation\nWell-being and quality of life measurement\nOfficial statistics and statistical metadata\n\nA full CV is available as a PDF."
   },
   {
     "objectID": "contact.html",
@@ -63,17 +84,10 @@
     "text": "I am always happy to discuss research on computational social sciences, well-being, and retirement pension systems. Feel free to reach out through any of the channels below.\n\nEmail: sergio.bacelar@gmail.com\nGitHub: github.com/sbacelar\nPhotography: Flickr"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Biography\nMy main research interests are Computational Social Sciences and Wellbeing/Quality of Life research. The main areas of application are retirement pension systems, well-being, and official statistics. I have published papers and presented communications on well-being (International Statistical Institute, UNECE, Kairós Gerontologia), computational social sciences (European Conference on Complex Systems), statistical metadata (UNECE/Eurostat/OECD) and regional statistical studies.\nI worked at the Department of Demographic and Social Statistics of Statistics Portugal, where I was responsible for the production of the Well-being index of Portugal. I worked at Statistics Portugal from 1990, mainly on statistical metadata, regional statistics studies and official statistics dissemination.\nI was a coordinator of the project ESSnet on SDMX (Statistical Data and Metadata Exchange): Metadata Common Vocabulary Ontology, at Eurostat. I was a member of the SDMX “Metadata Task Force” at Eurostat and a member of the Common Metadata Framework – (Metadata Concepts, Standards, Models and Registries) Task Force at the United Nations. I also participated in the project “Rainbow – An Object Network for Statisticians and Administrators” (European Commission Telematics Applications Programme).\nI taught and researched for more than 20 years in areas related to social sciences methods, statistics and organizational behavior at the Faculty of Economics of the University of Porto, and other university schools.\n\n\nEducation\n\nProvas de Aptidão Pedagógica e Capacidade Científica (2008)\nFaculdade de Economia do Porto\nDegree in Sociology (2000)\nISCTE-IUL University Institute of Lisbon\nDegree in Economics (1977)\nFaculdade de Economia do Porto U. Porto\n\n\n\nResearch Interests\n\nComputational Social Sciences\nWell-being and Quality of Life\nPensions and Retirement"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Tallon, J. M., Gomes, P., Bacelar-Nicolau, L., & Bacelar, S. (2021). A three-way multivariate data analysis: Comparison of EU countries’ COVID-19 incidence trajectories from May 2020 to February 2021. Biometrics & Biostatistics International Journal, 10(3), 17. https://doi.org/10.15406/bbij.2021.10.00336\nBacelar, S., & Antunes, L. (2019). Generational political dynamics of retirement pensions systems: An agent based model. http://arxiv.org/abs/1909.08706\nBacelar, Sérgio (2015, December 8). The Well-being Index: The weights of different components. Seminar on the Role of National Statistical Offices in the production of Leading,. Composite and Sentiment Indicators, UNECE, Geneva. https://unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.42/2015/Seminar/Session_II_Portugal-_The_Well-being_Index__the_weights_of_different_components.pdf\nGomes, P., & Bacelar, S. (2015). Measuring well-being in Portugal: Weights and resilience. Proceedings of the 60th ISI World Statistics Congress, 2004, 26–31. http://www.isi2015.org/components/com_users/views/registration/tmpl/media/uploadedFiles/paper/2049/5331/OR-F03-P2-S.pdf\nGuedes, J. M., Bacelar, S., Fonseca, A. M., & others. (2014). Uma tipologia de modos de vida na aposentadoria em Portugal. Kair{ó}s. Revista Da Faculdade de Ci{ê}ncias Humanas e Sa{ú}de. ISSN 2176-901X, 17(4), 9–29.\nBacelar, S. (2009). Metadata Common Vocabulary: A journey from a glossary to an ontology of statistical metadata and back. SDMX Global Conference, 1–10.\nBacelar, S. (2008). Evolu{ç}{ã}o da popula{ç}{ã}o e da estrutura familiar na Regi{ã}o Norte. In C. M. Gonçalves (Ed.), A Regi{ã}o Norte de Portugal: Mudan{ç}as e continuidades na contemporaneidade. Universidade do Porto. Faculdade de Letras. Instituto de Sociologia. https://ler.letras.up.pt/site/default.aspx?qry=id03id1253&sum=sim\nBacelar, S. (n.d.). Inventário Municipal da Região Norte: Breve apresentação de um instrumento de análise do quadro de vida local. Estatísticas & Estudos Regionais - Região Norte, 4, 14–24.\nBacelar, Sérgio (coordenação) (2006) Setenta anos: O Instituto Nacional de Estatística ao Serviço da Sociedade Portuguesa. Lisboa: INE. ISBN 972-673-889-X.\n\nOliveira, Emília; Gomes, José; Gomes, Paulo; Campos, Pedro; Bacelar, Sérgio (2000), ‘ALEA: um contributo para a promoção da literacia estatística (análise de dados e ensino da estatística nas escolas secundárias) ‘, Revista de Estatística, 20, 1º QUAD 2000.\n\nBacelar, Sérgio; Campos, Pedro; Martins, R.; Gomes, J.; Oliveira, E. (1999), ‘As Estatísticas e o Ensino da Estatística nas Escolas Secundárias - ALEA – Acção Local Estatística Aplicada: Um espaço de interacção na Internet em favor da literacia estatística’, comunicação apresentada em - Challenges 99 - , Actas da I Conferência Internacional de Tecnologias de Informação e Comunicação na Educação, Centro de Competência Nónio Século XXI, Universidade do Minho, Maio 1999.\nBacelar, Sérgio (1996), ‘Para uma Sociologia da produção estatística: virtualidades duma leitura sintomática da informação estatística’, Revista de Estatística, 1;\nBacelar, Sérgio (1994), ‘Inventário Municipal da Região do Norte: breve apresentação de um instrumento de análise do quadro de vida local’, Estatísticas & Estudos Regionais - Região Norte, Jan-Abr 1994, Nº 4\nBacelar, Sérgio (1994), ‘Inventário Municipal da Região do Norte: alguns indicadores para a análise do quadro de vida local’, comunicação apresentada nas I Jornadas de Classificação e Análise de Dados, Lisboa;\nBacelar, Sérgio; Gomes, Paulo; Saleiro, Emília (1994), ‘Tipologia socioeconómica dos concelhos da Região Norte’, comunicação apresentada no II Congresso Annual da Sociedade Portuguesa de Estatística, Luso, Junho de 1994;\nBacelar, Sérgio e Maia, José (1994), ‘Estudo exploratório e confirmatório da estrutura somática dos jovens andebolistas dos 13 aos 16 anos de idade’, I Congresso Anual da Sociedade Portuguesa de Estatística, Vimeiro, Junho de 1993 in Pestana, Dinis et al. (orgs.), A Estatística e o Futuro da Estatística, Lisboa, Salamandra;\nBacelar, Sérgio; Gomes, Paulo; Saleiro, Emília (1993), ‘Tipologia socioeconómica da população de Macau e no Delta do Rio das Pérolas – uma análise estatística multivariada dos dados dos Censos 91’, Seminário sobre a População em Macau e no Delta do Rio das Pérolas, Macau, Outubro;\nBacelar, Sérgio (1993), ‘Estagnação, Litoralização e Envelhecimento na Região (1981-91): uma dinâmica com contrastes’, Estatísticas & Estudos Regionais, 1, Porto, Instituto Nacional de Estatística/Direcção Regional do Norte;"
+    "text": "For more than 20 years I taught and researched in the social sciences, mainly at the Faculty of Economics of the University of Porto, as well as at other university schools.\n\nAreas Taught\n\nSocial sciences research methods\nStatistics\nOrganizational behavior\n\n\n\nAcademic Qualification\n\nProvas de Aptidão Pedagógica e Capacidade Científica (2000) Faculdade de Economia do Porto"
   }
 ]
