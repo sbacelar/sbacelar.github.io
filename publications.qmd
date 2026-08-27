@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+Full lists, with citation counts, are on [{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=h3IuIv0AAAAJ) and [{{< ai orcid >}} ORCID](https://orcid.org/0000-0002-9587-7280). A complete [CV (PDF)](cv.pdf) is also available.
+
 - Tallon, J. M., Gomes, P., Bacelar-Nicolau, L., & Bacelar, S. (2021). A three-way multivariate data analysis: Comparison of EU countries’ COVID-19 incidence trajectories from May 2020 to February 2021. Biometrics & Biostatistics International Journal, 10(3), 17. https://doi.org/10.15406/bbij.2021.10.00336
 - Bacelar, S., & Antunes, L. (2019). Generational political dynamics of retirement pensions systems: An agent based model. http://arxiv.org/abs/1909.08706
 - Bacelar, Sérgio (2015, December 8). The Well-being Index: The weights of different components. Seminar on the Role of National Statistical Offices in the production of Leading,. Composite and Sentiment Indicators, UNECE, Geneva. https://unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.42/2015/Seminar/Session_II__Portugal_-_The_Well-being_Index__the_weights_of_different_components.pdf
