@@ -13,6 +13,8 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://github.com/sbacelar
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9587-7280
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=h3IuIv0AAAAJ
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/s%C3%A9rgio-bacelar-044809/
