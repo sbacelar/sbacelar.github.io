@@ -2,32 +2,57 @@
 title: "Experience"
 ---
 
+## Research
+
+### Independent Researcher — Complexity Science and Pension Systems
+2025 – present · Porto
+
+- Completing the doctoral dissertation *Dynamics of Retirement Pension Systems: A Generational Approach* (supervisor during doctoral studies: Prof. Luís Antunes, FCUL), begun in the International Doctoral Programme in Complexity Sciences (Iscte-IUL / FCUL); the programme was discontinued in 2025.
+- Agent-based model of retirement timing combining Goal-Framing Theory worker types with option-value pension incentives; NetLogo driven from R, mean-field companion model, Julia/Agents.jl port in progress.
+- Manuscripts in preparation for journals in social simulation and retirement research.
+- Preprint: Bacelar & Antunes (2019), [Generational political dynamics of retirement pension systems: an agent-based model](https://arxiv.org/abs/1909.08706), arXiv:1909.08706.
+
 ## Professional Experience
 
-### Statistics Portugal
-Senior Statistician  
-1990 - 2024
+### Statistics Portugal (INE)
+1990 – 2024
 
-- Responsible for the Well-being index production
-- Worked on statistical metadata
-- Regional statistics studies
-- Official statistics dissemination
+**Statistics Administrator, Department of Demographic and Social Statistics** (2014–2024)
 
-### Teaching Experience
-Teacher Assistant  
-Faculty of Economics, University of Porto
+- Responsible for the production of the Well-being Index of Portugal.
+- Led the revision and development of the National Gender Database (labour market, education, work–life balance, decision-making, health).
+- Member, UNECE Task Force on Measurement of Well-being (2023–2024).
 
-- Teaching and researching for more than 20 years
-- Areas: social sciences research methods, statistics, organizational behavior
+**Statistics Administrator, Metadata Unit / Department of Methodology and Information Systems** (2003–2013)
 
-## Technical skills and competences
+- Coordinator, ESSnet on SDMX WP2: Metadata Common Vocabulary Ontology (Eurostat).
+- Design of the metadata conceptual and documentation subsystems; metadata usability testing.
+- Member, SDMX Metadata Task Force (Eurostat); member, Common Metadata Framework Part B Task Force (UNECE).
 
-Cambridge Certificate of Proficiency in English;
+**Consultant to the Administration Board** (2001–2003)
 
-## Workshops:
+- Statistical dissemination; cooperation projects in Cape Verde (Official Statistics Database, World Bank funded, 2002) and Mauritius (COMESA seminar on statistics dissemination, 2003).
 
-Complexity Sciences Winter School, “Social Structures in Communication Networks”, 5-9 Jan. 2009, ISCTE, Lisbon University Institute.
+**Head of Unit, North Directorate** (1990–2001)
 
-Workshop “Definição e outros conceitos” [Definition and other concepts]. Formação dada ao Instituto Nacional de Estatística pelo Centro de Linguística da Universidade Nova de Lisboa. COSTA, Rute, (coordination). Novembro 2006
+- Studies and dissemination; social and demographic statistics; IT and statistical projects.
+- Participant, European project *AD1013 Rainbow — An Object Network for Statisticians and Administrators* (EC Telematics Applications Programme).
+- Regional coordinator (North), 1991 Population and Housing Census.
 
-ZUMA *Workshop Simulation for the Social Sciences*, Universidade de Koblenz-Landau, Germany, 8-12 September, 2003. 
+## Teaching
+
+- **Assistant Lecturer**, Faculdade de Economia, Universidade do Porto (1985–2002): Introduction to the Social Sciences; Organizational Behaviour.
+- **Assistant Lecturer**, Instituto Superior de Serviço Social do Porto (1978–2005): Social Research Methods; Statistics; Communication Theories.
+
+## Research skills
+
+- **Modelling** — agent-based modelling (NetLogo, Julia/Agents.jl); ODD+D documentation; sensitivity analysis; mean-field approximation.
+- **Statistics and data** — R, Julia, SPSS; multivariate data analysis, classification and composite indicators; survival and mortality modelling; econometric identification (DiD, IV, RDD).
+- **Reproducibility** — Quarto, LaTeX, Git, Zotero.
+- **Languages** — Portuguese (native); English (Cambridge Certificate of Proficiency in English).
+
+## Workshops
+
+- Complexity Sciences Winter School, "Social Structures in Communication Networks", 5–9 January 2009, Iscte-IUL, Lisbon.
+- Workshop "Definição e outros conceitos" [Definition and other concepts], Centro de Linguística da Universidade Nova de Lisboa for Statistics Portugal (coord. Rute Costa), November 2006.
+- ZUMA Workshop *Simulation for the Social Sciences*, Universität Koblenz-Landau, Germany, 8–12 September 2003.

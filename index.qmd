@@ -4,23 +4,42 @@ image: portrait.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
   image-shape: round
+  links:
+    - icon: file-earmark-pdf
+      text: CV (PDF)
+      href: cv.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/sbacelar
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-9587-7280
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sergiobacelar/
 ---
-
 
 # Welcome
 
-Sérgio is currently a PhD candidate of Complexity Sciences ([FCUL-University of Lisbon](https://ciencias.ulisboa.pt/en)/[ISCTE-University Institute of Lisbon](https://www.iscte-iul.pt/)).
+I am an independent researcher and retired statistician, based in Porto. I work on retirement and pension systems as complex adaptive systems, using agent-based modelling and social simulation.
 
+My doctoral research, begun in the International Doctoral Programme in Complexity Sciences ([Iscte-IUL](https://www.iscte-iul.pt/) / [FCUL](https://ciencias.ulisboa.pt/en)), models retirement timing as an emergent property of interacting workers, pension rules and demographic change. The programme was discontinued in 2025; I am completing the dissertation, *Dynamics of Retirement Pension Systems: A Generational Approach*, independently.
+
+Before that I spent 34 years at [Statistics Portugal (INE)](https://www.ine.pt), most recently responsible for the [Well-being Index of Portugal](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indbemestar).
 
 # Skills
 
 ::: {.skills-container}
 ::: {.skill-card}
-**R Programming**
+**Agent-based modelling**
 :::
 
 ::: {.skill-card}
-**Statistics**
+**R · Julia · NetLogo**
+:::
+
+::: {.skill-card}
+**Official statistics**
 :::
 
 ::: {.skill-card}

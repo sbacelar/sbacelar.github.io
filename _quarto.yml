@@ -19,11 +19,13 @@ website:
       - talks.qmd
       - teaching.qmd
       - contact.qmd
+      - href: cv.pdf
+        text: CV
     tools:
       - icon: github
         href: https://github.com/sbacelar
   page-footer: 
-    left: "© 2024 Sérgio Bacelar"
+    left: "© 2026 Sérgio Bacelar"
     right: 
       - icon: github
         href: https://github.com/sbacelar
